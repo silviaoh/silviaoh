@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=69f0ae&height=300&section=header&text=Silvia's-GitHub(:JISUOH)&fontSize=60&fontColor=212121)
-
 <!--
 **silviaoh/silviaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=ccff90&height=300&section=header&text=JISUOH&nbsp;GitHub&nbsp;Area&fontSize=60&fontColor=212121)
 <div align="center" style="text-align:center">
+
 
 👋🏻 안녕하세요! Front End Developer 오지수입니다~ <br /><br />
   
