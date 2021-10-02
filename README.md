@@ -15,16 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋🏻 안녕하세요! Front End Developer 오지수입니다~ <br />
+<div align="center" style="text-align:center">
+
+👋🏻 안녕하세요! Front End Developer 오지수입니다~ <br /><br />
   
 ## 🛠 TECH STACK 🛠 <br />
- 
-<img alt="HTML" src ="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=000"/> <img alt="CSS3" src ="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=000"/> <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=000"/> <img alt="JavaScript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=000"/> <img alt="MobX" src ="https://img.shields.io/badge/mobx-FF9955.svg?&style=for-the-badge&logo=MobX&logoColor=000&fontColor=000"/>
+
+![HTML Badge](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=HTML5&logoColor=000)
+![CSS Badge](http://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=000)
+![JavaScript Badge](http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)
+![React Badge](http://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=000)
+![MobX Badge](http://img.shields.io/badge/-MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=000)
+
+<br />
 
 ## 🌱 More About My Info
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-663399?style=flat-square&logo=Gatsby&link=https://silviastory.netlify.app/)](https://silviastory.netlify.app/)
+[![Gmail Badge](http://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:silvia.jisu.oh@gmail.com)](mailto:silvia.jisu.oh@gmail.com)
 
-<img alt="Gatsby" src ="https://img.shields.io/badge/tech_blog-663399.svg?&style=for-the-badge&logo=Gatsby&logoColor=000&link=https://silviastory.netlify.app/" />
+<br />
 
 ![JisuOh's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviaoh&&show_icons=true&theme=vue)
+  
+</div>
 
